@@ -1,0 +1,16 @@
+## cat
+## chmod
+## chown
+## cp
+## htop
+## ln
+## mkdir
+## mv
+## pwd
+## rm
+## scp
+## top
+## tree
+## useradd
+## vi
+## xsel
