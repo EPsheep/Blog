@@ -1,3 +1,4 @@
 # phpstorm project files
 .idea/
 docker-compose.yml
+IDEA.md
