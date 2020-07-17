@@ -1,6 +1,6 @@
-## Blog
+## NoteBook
 
-> 我的网络日记
+> 我的笔记本
 
 ## Category
 - Algorithm(算法与数据结构)
